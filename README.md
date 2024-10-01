@@ -8,7 +8,7 @@ I have been learning Machine Learning from past few months and want to explore t
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [https://www.linkedin.com/in/mohini-giri-a9085b282/](mailto:https://www.linkedin.com/in/mohini-giri-a9085b282/)
-* 🧠  I'm learning Data Science
+* 🧠  I'm learning AI Technology
 * 🤝  I'm open to collaborating on any Machine learning related projects
 * ⚡  "By day, I blend with the crowd, but in secret, my creations weave wonders for the world."
 
